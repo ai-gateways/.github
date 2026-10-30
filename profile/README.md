@@ -24,6 +24,10 @@ This organization publishes vendor-neutral guides to AI gateways and the control
 | [AI guardrails](https://github.com/ai-gateways/ai-guardrails) | Input and output checks for prompt injection, personal data, secrets, and unsafe content, including streaming responses |
 | [LLM observability](https://github.com/ai-gateways/llm-observability) | What to capture, OpenTelemetry GenAI conventions, gateway vs SDK capture, cost attribution, and keeping prompts private |
 
+## Curated list
+
+[**Awesome AI Gateways**](https://github.com/ai-gateways/awesome-ai-gateways): open-source and commercial LLM, MCP, and agent gateways, plus model routers, inference gateways, and the specifications they implement.
+
 ## How the guides are written
 
 - **Vendor-neutral.** Projects are compared on facts each one publishes in its own repository or documentation.

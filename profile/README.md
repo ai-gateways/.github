@@ -30,14 +30,14 @@ This organization publishes vendor-neutral guides to AI gateways and the control
 
 ## Agent skills
 
-Four guides also ship an [Agent Skill](https://agentskills.io/specification#directory-structure) that walks a coding agent through setting up [Bifrost](https://github.com/maximhq/bifrost#quick-start), the open-source AI gateway by Maxim AI, for that kind of traffic. The skills are Bifrost setup guides; the guides themselves stay vendor-neutral.
+Four guides also ship an [Agent Skill](https://agentskills.io/specification#directory-structure) that walks a coding agent through setting up that gateway. The skills build it with [Bifrost](https://github.com/maximhq/bifrost#quick-start), the open-source AI gateway by Maxim AI; the guides themselves stay vendor-neutral.
 
 | Skill | Install | What it sets up |
 |---|---|---|
-| [`bifrost-ai-gateway`](https://github.com/ai-gateways/ai-gateway#agent-skill) | `npx skills add ai-gateways/ai-gateway` | One gateway for model, MCP tool, and A2A agent traffic |
-| [`bifrost-llm-gateway`](https://github.com/ai-gateways/llm-gateway#agent-skill) | `npx skills add ai-gateways/llm-gateway` | An OpenAI-compatible endpoint with fallbacks, load balancing, budgets, and rate limits |
-| [`bifrost-mcp-gateway`](https://github.com/ai-gateways/mcp-gateway#agent-skill) | `npx skills add ai-gateways/mcp-gateway` | One `/mcp` endpoint with per-key tool filtering, upstream auth, and Code Mode |
-| [`bifrost-agent-gateway`](https://github.com/ai-gateways/agent-gateway#agent-skill) | `npx skills add ai-gateways/agent-gateway` | A2A agent registration, per-key agent access, and Agent Logs |
+| [`ai-gateway`](https://github.com/ai-gateways/ai-gateway#agent-skill) | `npx skills add ai-gateways/ai-gateway` | One gateway for model, MCP tool, and A2A agent traffic |
+| [`llm-gateway`](https://github.com/ai-gateways/llm-gateway#agent-skill) | `npx skills add ai-gateways/llm-gateway` | An OpenAI-compatible endpoint with fallbacks, load balancing, budgets, and rate limits |
+| [`mcp-gateway`](https://github.com/ai-gateways/mcp-gateway#agent-skill) | `npx skills add ai-gateways/mcp-gateway` | One `/mcp` endpoint with per-key tool filtering, upstream auth, and Code Mode |
+| [`agent-gateway`](https://github.com/ai-gateways/agent-gateway#agent-skill) | `npx skills add ai-gateways/agent-gateway` | A2A agent registration, per-key agent access, and Agent Logs |
 
 ## How the guides are written
 

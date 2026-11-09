@@ -30,6 +30,8 @@ This organization publishes vendor-neutral guides to AI gateways and the control
 |---|---|
 | [Awesome AI Gateways](https://github.com/ai-gateways/awesome-ai-gateways) | Open-source and commercial LLM, MCP, and agent gateways, plus model routers, inference gateways, and the specifications they implement |
 | [Awesome Free AI Providers](https://github.com/ai-gateways/awesome-free-ai-providers) | Free tiers, free models, and signup credits from hosted AI model APIs, with the limits, requirements, and data-use terms each provider publishes |
+| [Best AI Gateways](https://github.com/ai-gateways/best-ai-gateways) | A selective list of open-source and managed AI gateways, with the criteria used and the license, deployment model, strengths, and limitations of each |
+| [Best MCP Gateways](https://github.com/ai-gateways/best-mcp-gateways) | A selective list of open-source and managed MCP gateways, with the criteria used and the license, deployment model, strengths, and limitations of each |
 
 ## Agent skills
 
